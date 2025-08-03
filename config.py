@@ -1,0 +1,2 @@
+TELEGRAM_TOKEN = "7129838608:AAGQHo2o6ps-34jTbx4LnRWlFDCVWkso3kM"
+TELEGRAM_CHAT_ID = "-1002176355224"                     SCAN_INTERVAL = 60  # waktu scan dalam detik
